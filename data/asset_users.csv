@@ -1,0 +1,6 @@
+(
+  echo user,dept,role,mfa_enabled,sensitivity
+  echo alice,Finance,Analyst,true,2
+  echo bob,IT,SysAdmin,false,3
+  echo charlie,Sales,Rep,true,1
+)>
